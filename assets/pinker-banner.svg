@@ -44,8 +44,8 @@
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="245" y="142" fill="#fff4f9" font-size="50" font-weight="700" letter-spacing="2">LYANNA VALERIE</text>
-    <text x="248" y="184" fill="#ff73b8" font-size="21" letter-spacing="4">PINKER · COMPILADORES · RUNTIMES · SISTEMAS</text>
+    <text x="590" y="142" text-anchor="middle" fill="#fff4f9" font-size="50" font-weight="700" letter-spacing="2">LYANNA VALERIE</text>
+<text x="590" y="184" text-anchor="middle" fill="#ff73b8" font-size="21" letter-spacing="4">PINKER · COMPILADORES · RUNTIMES · SISTEMAS</text>
 
     <g transform="translate(248 230)" font-size="15">
       <rect x="0" y="0" width="126" height="42" rx="9" fill="#2d1728" stroke="#ff4fa3" stroke-opacity=".6"/>
