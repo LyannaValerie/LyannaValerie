@@ -9,7 +9,7 @@
 ### Linguagens, compiladores e sistemas construídos de baixo para cima.
 
 [![Pinker](https://img.shields.io/badge/Pinker-linguagem_autoral-ff4fa3?style=for-the-badge&labelColor=17121b)](https://github.com/LyannaValerie/pinker-v0)
-![Rust](https://img.shields.io/badge/Rust-compiladores-ff73b8?style=for-the-badge&logo=rust&logoColor=white&labelColor=17121b)
+![Rust](https://img.shields.io/badge/Rust-compiladores-ff73b8?style=for-the-badge&logo=rust&logoColor=white&labelColor=17121b) <br>
 ![C](https://img.shields.io/badge/C-runtime_e_sistemas-e85d9e?style=for-the-badge&logo=c&logoColor=white&labelColor=17121b)
 ![Assembly](https://img.shields.io/badge/Assembly-x86--64-c94c8d?style=for-the-badge&labelColor=17121b)
 ![Linux](https://img.shields.io/badge/Linux-ambiente_nativo-b83d7d?style=for-the-badge&logo=linux&logoColor=white&labelColor=17121b)
