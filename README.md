@@ -186,12 +186,43 @@ fn evoluir(projeto: &mut Projeto) {
 
 ## `06.` Projetos públicos
 
-<a href="https://github.com/LyannaValerie/pinker-v0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LyannaValerie&repo=pinker-v0&theme=radical&hide_border=true&bg_color=17121B&title_color=FF73B8&icon_color=FF4FA3&text_color=F7D8E8" alt="Repositório Pinker v0">
-</a>
-<a href="https://github.com/LyannaValerie/mapinhas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LyannaValerie&repo=mapinhas&theme=radical&hide_border=true&bg_color=17121B&title_color=FF73B8&icon_color=FF4FA3&text_color=F7D8E8" alt="Repositório Mapinhas">
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/LyannaValerie/pinker-v0">Pinker v0</a>
+
+Base factual atual da linguagem Pinker.
+
+**Inclui:**
+- frontend em Rust;
+- interpretador;
+- IR textual e CFG IR;
+- backend nativo próprio;
+- geração ELF Linux x86-64;
+- documentação versionada.
+
+**Foco:** compiladores, runtime, backend nativo, evolução rumo a self-hosting e sistemas.
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/LyannaValerie/mapinhas">Mapinhas</a>
+
+Repositório dos meus mapas do Obsidian.
+
+**Inclui:**
+- organização de estudos;
+- estruturas de navegação;
+- mapas conceituais;
+- trilhas de aprendizagem;
+- material vivo de pesquisa.
+
+**Foco:** clareza estrutural, conexão entre temas e continuidade dos estudos.
+
+</td>
+</tr>
+</table>
 
 ---
 
