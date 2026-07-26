@@ -70,7 +70,7 @@ pacote laboratorio;
 
 carinho principal() -> bombom {
     falar("uma linguagem deve conhecer a máquina que a sustenta");
-    retornar 0;
+    mimo 0;
 }
 ```
 
